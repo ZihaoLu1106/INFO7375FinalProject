@@ -45,6 +45,16 @@ We use the [**Writing Prompts**](https://www.kaggle.com/datasets/ratthachat/writ
 The dataset is downloaded automatically using `kagglehub`.
 
 ---
+## 📚 Model
+
+We use the [**Tiny GPT-2**](https://huggingface.co/sshleifer/tiny-gpt2) from Huggingface
+
+---
+## 📚 RAG
+
+We use the [**paraphrase-MiniLM-L6-v2**](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2) from Huggingface
+
+---
 
 ## 🚀 Project Structure
 
