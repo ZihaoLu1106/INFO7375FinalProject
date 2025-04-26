@@ -81,6 +81,13 @@ output = model.generate(input_ids, max_length=300, num_return_sequences=1)
 
 print(tokenizer.decode(output[0], skip_special_tokens=True))
 ```
+```python
+# output
+[ WP ] The world consists of `` users '', `` builders '', and `` thinkers ''. You are a `` thinker '', a physicist on the brink of proving a new abstract theory. On the decisive day you prove this theory you've become the first known `` master ''.
+ [ WP ] This is my first post here, sorry if this has been done before. I have a very detailed and expansive prompt. I came up with this a while ago, and it was too ambitious to tackle myself. I feel like it has too much potential to just be forgotten. Enjoy!
+ [ CW ] Go to this website : http : //imgurroulette.com/ click `` letsgo '', and write a short story about whatever appears. Include the direct link to the image in your reply.
+ A young girl discovers a hidden door in her backyard. '',., you the you to `` you mynew < the thenew.. ``, < the `` the and <,> the in a., the to The I,., I Iline>new.> that the,new you � in the <new '' I a was. ``.>> andnew to of't'you.>line of.,. on the.newline <, his the,.new his..new. ''lineline.> `` me you forlines the>.> in>lineline < the <>, is it a Iline> to.s in the of andnewnewnew '' is>new his I> the <..> <
+```
 
 ---
 
