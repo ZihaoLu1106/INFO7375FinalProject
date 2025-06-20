@@ -1,6 +1,6 @@
 # 📖 Storytelling Model Fine-Tuning and RAG
 
-This project fine-tunes a pre-trained **tiny GPT-2** model to generate full stories from short prompts, using the **Writing Prompts** dataset from Kaggle. And use paraphrase-MiniLM-L6-v2 as RAG
+This project fine-tunes a pre-trained **tiny GPT-2** model to generate full stories from short prompts, using the **Writing Prompts** dataset from Kaggle. And use style stories and paraphrase-MiniLM-L6-v2 as RAG
 The model learns to take creative ideas and expand them into rich, detailed narratives!
 
 ---
